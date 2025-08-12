@@ -14,7 +14,7 @@ baseurl:          "" #(e.g. /rdos_dataden if using project page)
 
 
 paginate:         5
-paginate_path: "/page:num" #might change
+paginate_path: "/page:num" 
 
 # Build settings
 theme: null  # You're using a local theme, not a gem-based one

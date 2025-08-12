@@ -61,4 +61,4 @@ Many of the materials here are built on the generous work of others. We deeply a
 
 [List names, affiliations, and links to original materials (optional)]
 
-We do our best to give credit wherever it’s due. If you spot something of yours that we’ve used or adapted and don’t see your name listed — or if you’d like to be included — please [reach out](open-scholarship@cornell.edu). We’d love to recognize your work.
+We do our best to give credit wherever it’s due. If you spot something of yours that we’ve used or adapted and don’t see your name listed — or if you’d like to be included — please **[reach out](open-scholarship@cornell.edu)**. We’d love to recognize your work.

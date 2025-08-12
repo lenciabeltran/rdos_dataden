@@ -11,6 +11,20 @@ We’re so grateful to the amazing folks outside our core team who have helped s
 ## Guest Instructors & Collaborators <br>
 Big thanks to the guest instructors and external collaborators who’ve jumped in to teach, lead activities, or co-create content with us. Your time, energy, and expertise have made a big impact.
 
+| Name | Title | Department/Unit | Email | Workshop(s) |
+|------|-------|-----------------|-------|-------------|
+| Iliana Burgos | Emerging Data Practices Librarian | Digital Scholarship Services | itb23@cornell.edu |  |
+| Mary Campany | Authorities Metadata Librarian |  | mgc96@cornell.edu |  |
+| Julia Corrice | Metadata Operations Librarian |  | jac742@cornell.edu |  |
+| Dianne Dietrich | Digital Assets Librarian | Library Information Technology | dd388@cornell.edu |  |
+| Jacob Grippin | Research Facilitator | Cornell Center for Social Sciences | jrg363@cornell.edu |  |
+| Jo Klein | Social Science Research and Spatial Data Librarian |  | ejk256@cornell.edu |  |
+| Wendy Kozlowski | Director / Cornell Data Services group coordinator | Research Data and Open Scholarship | wak57@cornell.edu |  |
+| Kiran Mohammadi-Williams | Collections as Data Librarian | Digital Scholarship Services | kam535@cornell.edu |  |
+| Mike Priehs | Open Scholarship Specialist | Research Data and Open Scholarship | mep324@cornell.edu |  |
+
+
+
 **Iliana Burgos**\
 Emerging Data Practices Librarian\
 Digital Scholarship Services\

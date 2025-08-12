@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:  Research Data & Open Scholarship Guides
-description: Research, Data, and Code support from Cornell University Library
+description: Open Research, Data, and Code support from Cornell University Library
 url:              http://hyde.getpoole.com ## Can be replaced with GitHub Pages URL later
 baseurl:          "" #(e.g. /rdos-site if using project page)
 

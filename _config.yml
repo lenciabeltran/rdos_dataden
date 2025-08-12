@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:  Research Data & Open Scholarship Guides
+description: Research, Data, and Code support from Cornell University Library
+url:              http://hyde.getpoole.com ## Can be replaced with GitHub Pages URL later
+baseurl:          "" #(e.g. /rdos-site if using project page)
+
+
+paginate:         5
+paginate_path: "/page:num" #might change
+
+# Build settings
+theme: null  # You're using a local theme, not a gem-based one
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Excludes and includes
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE.md
+  - CNAME
+
+# Custom vars
+version: 2.1.0
+
+github:
+  repo: https://github.com/poole/hyde

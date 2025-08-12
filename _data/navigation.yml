@@ -1,0 +1,27 @@
+- title: Home
+  url: /
+- title: Workshops
+  url: /workshops/
+  children:
+    - title: Web scraping & APIs
+      url: /workshops/webscraping/
+    - title: Introdution to Excel
+      url: /workshops/excel/
+    - title: Introduction to OpenRefine
+      url: /workshops/openrefine/
+    - title: GitHub for Solo Projects
+      url: /workshops/github1/  
+    - title: GitHub for Collaborative Projects
+      url: /workshops/github2/
+    - title: Introduction to DataWrapper
+      url: /workshops/datawrapper/
+    - title: Building your Researcher Profile
+      url: /workshops/profile/     
+- title: About
+  url: /about/
+- title: Contact
+  url: /contact/
+- title: Data Lifecycle
+  url: /data-lifecycle/
+- title: Contributors
+  url: /contributors/

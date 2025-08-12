@@ -1,0 +1,173 @@
+/*
+ * Hyde.css - Responsive Flexbox Layout Fix with Scrollable Sidebar
+ */
+
+/* Base HTML font sizing */
+html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+@media (min-width: 48em) {
+  html { font-size: 16px; }
+}
+@media (min-width: 58em) {
+  html { font-size: 20px; }
+}
+
+/* Page Layout using Flexbox */
+@media (min-width: 48em) {
+  body {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    margin: 0;
+  }
+}
+
+/* Sidebar */
+.sidebar {
+  text-align: left;
+  padding: 2rem 1.5rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+@media (min-width: 48em) {
+  .sidebar {
+    flex: 0 0 22rem;   /* fixed width */
+    height: 100vh;     /* exactly viewport height */
+    position: sticky;
+    top: 0;
+    overflow-y: auto;  /* scroll inside if content overflows */
+    -webkit-overflow-scrolling: touch; /* smooth scroll on mobile trackpads */
+  }
+}
+
+/* Sidebar links */
+.sidebar a { color: #fff; }
+
+/* About section */
+.sidebar-about h1 {
+  color: #fff;
+  margin-top: auto;
+  font-family: "Abril Fatface", serif;
+  font-size: 2.80rem;
+}
+@media (max-width: 768px) {
+  .sidebar-about h1 {
+    font-size: 1.8rem;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
+}
+
+.sidebar-about p {
+  font-size: 1rem;
+  color: rgba(255,255,255,0.5);
+  margin-top: 0.5rem;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.sidebar-nav-item {
+  display: block;
+  line-height: 1.75;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus { text-decoration: underline; }
+.sidebar-nav-item.active { font-weight: bold; }
+
+/* Dropdown menu for sidebar nav items */
+.dropdown-content {
+  display: none;
+  padding-left: 15px;
+  margin-top: 4px;
+}
+.sidebar-dropdown.open .dropdown-content { display: block; }
+
+/* Sidebar subnav */
+.sidebar-subnav {
+  list-style: none;
+  padding-left: 15px;
+  margin: 5px 0 10px;
+}
+.sidebar-nav-subitem {
+  font-size: 0.9em;
+  display: block;
+  padding: 2px 0;
+}
+
+/* Content area */
+.content {
+  flex: 1;
+  padding: 1rem;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+@media (min-width: 48em) {
+  .content {
+    padding: 2rem;
+    margin: 0; /* remove old margin-left hack */
+  }
+}
+
+/* Reverse layout */
+@media (min-width: 48em) {
+  .layout-reverse { flex-direction: row-reverse; }
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    padding: 1.5rem;
+    text-align: center;
+    height: auto;
+    overflow-y: visible;
+  }
+  .sidebar-nav-item {
+    font-size: 1rem;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
+}
+
+/* Theme colors */
+.theme-base-08 .sidebar { background-color: #ac4142; }
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover { color: #ac4142; }
+
+.theme-base-09 .sidebar { background-color: #d28445; }
+.theme-base-09 .content a,
+.theme-base-09 .related-posts li a:hover { color: #d28445; }
+
+.theme-base-0a .sidebar { background-color: #f4bf75; }
+.theme-base-0a .content a,
+.theme-base-0a .related-posts li a:hover { color: #f4bf75; }
+
+.theme-base-0b .sidebar { background-color: #90a959; }
+.theme-base-0b .content a,
+.theme-base-0b .related-posts li a:hover { color: #90a959; }
+
+.theme-base-0c .sidebar { background-color: #75b5aa; }
+.theme-base-0c .content a,
+.theme-base-0c .related-posts li a:hover { color: #75b5aa; }
+
+.theme-base-0d .sidebar { background-color: #6a9fb5; }
+.theme-base-0d .content a,
+.theme-base-0d .related-posts li a:hover { color: #6a9fb5; }
+
+.theme-base-0e .sidebar { background-color: #aa759f; }
+.theme-base-0e .content a,
+.theme-base-0e .related-posts li a:hover { color: #aa759f; }
+
+.theme-base-0f .sidebar { background-color: #8f5536; }
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover { color: #8f5536; }

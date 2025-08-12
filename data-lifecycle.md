@@ -9,7 +9,7 @@ The research data lifecycle refers to the process of conducting research, from t
 
 This process is not necessarily linear, and researchers often move back and forth between steps with fluidity over the duration of a project.
 
-<img src="/public/images/datalife.png" alt="Data lifecycle">
+<img src="../public/images/datalife.png" alt="Data lifecycle">
 ---
 # Planning Stage 
 

@@ -2,7 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="{{ site.baseurl }}">
+        <a href="{{ site.baseurl }}/">
           {{ site.title }}
         </a>
       </h1>
@@ -15,19 +15,19 @@
 {% for item in nav_items %}
   {% if item.children %}
     <div class="sidebar-dropdown">
-     <a href="{{ item.url }}" class="sidebar-nav-item dropdown-toggle{% if page.url == item.url %} active{% endif %}">
+      <a href="{{ site.baseurl }}{{ item.url }}" class="sidebar-nav-item dropdown-toggle{% if page.url == item.url %} active{% endif %}">
         {{ item.title }}
       </a>
       <div class="dropdown-content">
         {% for child in item.children %}
-          <a class="sidebar-nav-subitem{% if page.url == child.url %} active{% endif %}" href="{{ child.url }}">
+          <a class="sidebar-nav-subitem{% if page.url == child.url %} active{% endif %}" href="{{ site.baseurl }}{{ child.url }}">
             {{ child.title }}
           </a>
         {% endfor %}
       </div>
     </div>
   {% else %}
-    <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ item.url }}">
+    <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">
       {{ item.title }}
     </a>
   {% endif %}

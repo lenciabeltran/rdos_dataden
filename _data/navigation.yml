@@ -1,27 +1,27 @@
 - title: Home
-  url: "{{ site.baseurl }}/"
+  url: /
+- title: Data Lifecycle
+  url: /data-lifecycle/
 - title: Workshops
-  url: "{{ site.baseurl }}/workshops/"
+  url: /workshops/
   children:
     - title: Web scraping & APIs
-      url: "{{ site.baseurl }}/workshops/webscraping/"
-    - title: Introduction to Excel
-      url: "{{ site.baseurl }}/workshops/excel/"
+      url: /workshops/webscraping/
+    - title: Introdution to Excel
+      url: /workshops/excel/
     - title: Introduction to OpenRefine
-      url: "{{ site.baseurl }}/workshops/openrefine/"
+      url: /workshops/openrefine/
     - title: GitHub for Solo Projects
-      url: "{{ site.baseurl }}/workshops/github1/"
+      url: /workshops/github1/  
     - title: GitHub for Collaborative Projects
-      url: "{{ site.baseurl }}/workshops/github2/"
+      url: /workshops/github2/
     - title: Introduction to DataWrapper
-      url: "{{ site.baseurl }}/workshops/datawrapper/"
+      url: /workshops/datawrapper/
     - title: Building your Researcher Profile
-      url: "{{ site.baseurl }}/workshops/profile/"
+      url: /workshops/profile/        
 - title: About
-  url: "{{ site.baseurl }}/about/"
+  url: /about/
 - title: Contact
-  url: "{{ site.baseurl }}/contact/"
-- title: Data Lifecycle
-  url: "{{ site.baseurl }}/data-lifecycle/"
+  url: /contact/
 - title: Contributors
-  url: "{{ site.baseurl }}/contributors/"
+  url: /contributors/

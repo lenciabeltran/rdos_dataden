@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-nav_order: 3
+nav_order: 4
 ---
 
 We are a small, yet mighty, collaborative team dedicated to supporting researchers in managing, sharing, and preserving their data and scholarship. Our group was formed about a year and a half ago to bring together expertise in research data, digital preservation, and open scholarship under one umbrella.

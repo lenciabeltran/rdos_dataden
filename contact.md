@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-nav_order: 4
+nav_order: 5
 ---
 Have a question about research data, coding, or open scholarship? Looking for support with data management, sharing, or instruction? We’re here to help.
 

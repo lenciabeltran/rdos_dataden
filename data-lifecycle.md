@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Data Lifecycle
-nav_order: 1
+nav_order: 2
 ---
 
 # What is the research data lifecycle? 

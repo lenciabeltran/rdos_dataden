@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors
-nav_order: 5
+nav_order: 6
 ---
 
 ## Acknowledging Our Collaborators

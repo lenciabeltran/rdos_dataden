@@ -59,6 +59,5 @@ mep324@cornell.edu
 ## Open Materials & Shared Resources <br>
 Many of the materials here are built on the generous work of others. We deeply appreciate those who’ve shared their teaching materials under open licenses — it’s thanks to you that we can keep building and sharing in the same spirit.
 
-[List names, affiliations, and links to original materials (optional)]
 
 We do our best to give credit wherever it’s due. If you spot something of yours that we’ve used or adapted and don’t see your name listed — or if you’d like to be included — please **[reach out](open-scholarship@cornell.edu)**. We’d love to recognize your work.

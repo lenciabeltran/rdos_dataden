@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:  Research Data & Open Scholarship Guides
-description: Data and Code support from Cornell University Library
+description: Open Research, Data, and Code support from Cornell University Library
 url:              "https://cul-it.github.io"
 baseurl:          "/rdos_dataden" #(e.g. /rdos_dataden if using project page)
 

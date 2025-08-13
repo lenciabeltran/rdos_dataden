@@ -14,59 +14,14 @@ Big thanks to the guest instructors and external collaborators who’ve jumped i
 | Name | Title | Department/Unit | Email | Workshop(s) |
 |------|-------|-----------------|-------|-------------|
 | Iliana Burgos | Emerging Data Practices Librarian | Digital Scholarship Services | itb23@cornell.edu |  |
-| Mary Campany | Authorities Metadata Librarian |  | mgc96@cornell.edu |  |
-| Julia Corrice | Metadata Operations Librarian |  | jac742@cornell.edu |  |
+| Mary Campany | Authorities Metadata Librarian | Library Technical Services | mgc96@cornell.edu |  |
+| Julia Corrice | Metadata Operations Librarian | Library Technical Services | jac742@cornell.edu |  |
 | Dianne Dietrich | Digital Assets Librarian | Library Information Technology | dd388@cornell.edu |  |
 | Jacob Grippin | Research Facilitator | Cornell Center for Social Sciences | jrg363@cornell.edu |  |
-| Jo Klein | Social Science Research and Spatial Data Librarian |  | ejk256@cornell.edu |  |
+| Jo Klein | Social Science Research and Spatial Data Librarian | Music & Fine Arts Libraries | ejk256@cornell.edu |  |
 | Wendy Kozlowski | Director / Cornell Data Services group coordinator | Research Data and Open Scholarship | wak57@cornell.edu |  |
 | Kiran Mohammadi-Williams | Collections as Data Librarian | Digital Scholarship Services | kam535@cornell.edu |  |
 | Mike Priehs | Open Scholarship Specialist | Research Data and Open Scholarship | mep324@cornell.edu |  |
-
-
-
-**Iliana Burgos**\
-Emerging Data Practices Librarian\
-Digital Scholarship Services\
-itb23@cornell.edu
-
-**Mary Campany**\
-Authorities Metadata Librarian\
-mgc96@cornell.edu
-
-**Julia Corrice**\
-Metadata Operations Librarian\
-jac742@cornell.edu
-
-**Dianne Dietrich**\
-Digital Assets Librarian\
-Library Information Technology\
-dd388@cornell.edu
-
-**Jacob Grippin**\
-Research Facilitator\
-Cornell Center for Social Sciences\
-jrg363@cornell.edu
-
-**Jo Klein**\
-Social Science Research and Spatial Data Librarian\
-ejk256@cornell.edu
-
-**Wendy Kozlowski**\
-Director\
-Cornell Data Services group coordinator\
-Research Data and Open Scholarship\
-wak57@cornell.edu
-
-**Kiran Mohammadi-Williams**\
-Collections as Data Librarian\
-Digital Scholarship Services\
-kam535@cornell.edu
-
-**Mike Priehs**\
-Open Scholarship Specialist\
-Research Data and Open Scholarship\
-mep324@cornell.edu
 
 
 

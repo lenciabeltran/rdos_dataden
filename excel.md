@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Introduction to Excel
-parent: workshops
-#nav_order: 2
+title: "Introdution to Excel"
+permalink: /workshops/excel/
 ---
+
+
+### Coming Soon! 

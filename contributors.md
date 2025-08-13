@@ -25,7 +25,7 @@ Big thanks to the guest instructors and external collaborators who’ve jumped i
 | Kiran Mohammadi-Williams | Collections as Data Librarian | Digital Scholarship Services | kam535@cornell.edu | Introduction to Data Visualization with Datawrapper |
 | Mike Priehs | Open Scholarship Specialist | Research Data and Open Scholarship | mep324@cornell.edu | Establishing a Researcher Profile |
 
-
+---
 
 ## Open Materials & Shared Resources <br>
 Many of the materials here are built on the generous work of others. We deeply appreciate those who’ve shared their teaching materials under open licenses — it’s thanks to you that we can keep building and sharing in the same spirit.

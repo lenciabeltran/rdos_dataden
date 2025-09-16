@@ -6,7 +6,7 @@ nav_order: 6
 
 ## Acknowledging Our Collaborators
 
-We’re so grateful to the amazing folks outside our core team who have helped shape the materials on this site. Whether by co-teaching a session, sharing lesson plans, or making their work openly available, their contributions have made these resources stronger, more diverse, and more useful for everyone.
+We’re so grateful to the amazing folks outside our core team who have helped shape the materials on this site. Whether by co-teaching a session, sharing lesson plans, or making their work openly available, their contributions have made these resources stronger, more diverse, and more useful for everyone!
 
 ## Guest Instructors & Collaborators <br>
 Big thanks to the guest instructors and external collaborators who’ve jumped in to teach, lead activities, or co-create content with us. Your time, energy, and expertise have made a big impact.

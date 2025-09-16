@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 nav_order: 5
 ---
-Have a question about research data, coding, or open scholarship? Looking for support with data management, sharing, or instruction? We’re here to help.
+Have a question about research data, coding, or open scholarship? Looking for support with data management, sharing, or instruction? We’re here to help!
 
 How to Reach Us
 1. **[Email](mailto:open-scholarship@cornell.edu)** [open-scholarship@cornell.edu]<br>
